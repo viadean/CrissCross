@@ -1,2 +1,3 @@
 ## 🔰[Analytical Electrochemistry](https://viadean.notion.site/Analytical-electrochemistry-1531ae7b9a32804c97b4c12ffd1afeb6?pvs=4)
+Analytical electrochemistry is a sub-discipline of chemistry that focuses on using electrochemical techniques to measure and analyze the properties of chemical systems. It involves the study of electrical properties (such as current, potential, or charge) of chemical substances in order to determine their concentrations, compositions, or chemical behavior. This field plays a critical role in various applications, including environmental monitoring, medical diagnostics, and industrial processes.
 ![Analytical Electrochemistry](https://github.com/viadean/CrissCross/blob/main/Analytical%20Electrochemistry/Analytical%20electrochemistry.svg)
