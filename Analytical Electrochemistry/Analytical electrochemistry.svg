@@ -1,0 +1,276 @@
+<svg height="1000" width="1200" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 12/5/2024, 8:31:00 PM -->
+<g transform="translate(195.62785,18)">
+<g id="sankey_flows">
+<path id="flow1" d="M12 606.12589C97.71732 606.12589 97.71732 647.92949 183.43465 647.92949" fill="none" stroke-width="292.59783" stroke="#e15759" opacity="0.45"><title>Analytical-electrochemistry → Analysis: 108</title></path>
+<path id="flow0" d="M12 356.87589C97.71732 356.87589 97.71732 297.47076 183.43465 297.47076" fill="none" stroke-width="205.90217" stroke="#f28e2c" opacity="0.45"><title>Analytical-electrochemistry → Basics: 76</title></path>
+<path id="flow36" d="M195.43465 775.26373C281.15197 775.26373 281.15197 901.32033 366.8693 901.32033" fill="none" stroke-width="37.92935" stroke="#76b7b2" opacity="0.45"><title>Analysis → Liquid Chromatography: 14</title></path>
+<path id="flow18" d="M195.43465 385.52104C281.15197 385.52104 281.15197 411.57283 366.8693 411.57283" fill="none" stroke-width="29.80163" stroke="#af7aa1" opacity="0.45"><title>Basics → an electrochemical cell and an electrical circuit: 11</title></path>
+<path id="flow33" d="M195.43465 703.46889C281.15197 703.46889 281.15197 795.9899 366.8693 795.9899" fill="none" stroke-width="29.80163" stroke="#f28e2c" opacity="0.45"><title>Analysis → Coulometry: 11</title></path>
+<path id="flow9" d="M195.43465 282.56995C281.15197 282.56995 281.15197 208.01498 366.8693 208.01498" fill="none" stroke-width="24.38315" stroke="#4e79a7" opacity="0.45"><title>Basics → Equation of Butler–Volmer: 9</title></path>
+<path id="flow19" d="M195.43465 513.82215C281.15197 513.82215 281.15197 449.84375 366.8693 449.84375" fill="none" stroke-width="24.38315" stroke="#ff9da7" opacity="0.45"><title>Analysis → Voltammetric Techniques: 9</title></path>
+<path id="flow26" d="M195.43465 610.00014C281.15197 610.00014 281.15197 624.27145 366.8693 624.27145" fill="none" stroke-width="21.67391" stroke="#59a14f" opacity="0.45"><title>Analysis → Conductometry: 8</title></path>
+<path id="flow34" d="M195.43465 729.20667C281.15197 729.20667 281.15197 832.9062 366.8693 832.9062" fill="none" stroke-width="21.67391" stroke="#ff9da7" opacity="0.45"><title>Analysis → Chemical Sensors: 8</title></path>
+<path id="flow22" d="M195.43465 557.16998C281.15197 557.16998 281.15197 526.72716 366.8693 526.72716" fill="none" stroke-width="18.96467" stroke="#4e79a7" opacity="0.45"><title>Analysis → Cyclic Voltammetry: 7</title></path>
+<path id="flow25" d="M195.43465 589.68085C281.15197 589.68085 281.15197 592.77362 366.8693 592.77362" fill="none" stroke-width="18.96467" stroke="#76b7b2" opacity="0.45"><title>Analysis → Amperometry: 7</title></path>
+<path id="flow30" d="M195.43465 660.12107C281.15197 660.12107 281.15197 719.10649 366.8693 719.10649" fill="none" stroke-width="18.96467" stroke="#9c755f" opacity="0.45"><title>Analysis → Potentiometric Titrations: 7</title></path>
+<path id="flow2" d="M195.43465 202.64739C281.15197 202.64739 281.15197 49.84272 366.8693 49.84272" fill="none" stroke-width="16.25543" stroke="#76b7b2" opacity="0.45"><title>Basics → Thermodynamics and Equilibrium: 6</title></path>
+<path id="flow16" d="M195.43465 357.07403C281.15197 357.07403 281.15197 360.76876 366.8693 360.76876" fill="none" stroke-width="16.25543" stroke="#59a14f" opacity="0.45"><title>Basics → the process of activation on the working electrode: 6</title></path>
+<path id="flow28" d="M195.43465 637.09254C281.15197 637.09254 281.15197 673.7209 366.8693 673.7209" fill="none" stroke-width="16.25543" stroke="#af7aa1" opacity="0.45"><title>Analysis → PH Determination: 6</title></path>
+<path id="flow35" d="M195.43465 748.17134C281.15197 748.17134 281.15197 863.04941 366.8693 863.04941" fill="none" stroke-width="16.25543" stroke="#e15759" opacity="0.45"><title>Analysis → Electrochemical Biosensors: 6</title></path>
+<path id="flow10" d="M195.43465 301.53462C281.15197 301.53462 281.15197 238.15818 366.8693 238.15818" fill="none" stroke-width="13.5462" stroke="#f28e2c" opacity="0.45"><title>Basics → Transport phenomena: 5</title></path>
+<path id="flow20" d="M195.43465 532.78683C281.15197 532.78683 281.15197 479.98695 366.8693 479.98695" fill="none" stroke-width="13.5462" stroke="#9c755f" opacity="0.45"><title>Analysis → Pulse Voltammetry: 5</title></path>
+<path id="flow4" d="M195.43465 224.32131C281.15197 224.32131 281.15197 93.87369 366.8693 93.87369" fill="none" stroke-width="10.83696" stroke="#edc949" opacity="0.45"><title>Basics → curves current-potential: 4</title></path>
+<path id="flow5" d="M195.43465 235.15826C281.15197 235.15826 281.15197 115.88918 366.8693 115.88918" fill="none" stroke-width="10.83696" stroke="#af7aa1" opacity="0.45"><title>Basics → potential of an electrode: 4</title></path>
+<path id="flow7" d="M195.43465 254.12294C281.15197 254.12294 281.15197 157.21091 366.8693 157.21091" fill="none" stroke-width="10.83696" stroke="#9c755f" opacity="0.45"><title>Basics → Qualitative Current-Potential Curves: 4</title></path>
+<path id="flow8" d="M195.43465 264.95989C281.15197 264.95989 281.15197 179.22639 366.8693 179.22639" fill="none" stroke-width="10.83696" stroke="#bab0ab" opacity="0.45"><title>Basics → Nernst’s Equation: 4</title></path>
+<path id="flow11" d="M195.43465 313.7262C281.15197 313.7262 281.15197 261.52829 366.8693 261.52829" fill="none" stroke-width="10.83696" stroke="#e15759" opacity="0.45"><title>Basics → limiting-intensity of the real current-potential curves: 4</title></path>
+<path id="flow31" d="M195.43465 675.02188C281.15197 675.02188 281.15197 745.18583 366.8693 745.18583" fill="none" stroke-width="10.83696" stroke="#bab0ab" opacity="0.45"><title>Analysis → Chronopotentiometry: 4</title></path>
+<path id="flow3" d="M195.43465 214.83897C281.15197 214.83897 281.15197 73.21282 366.8693 73.21282" fill="none" stroke-width="8.12772" stroke="#59a14f" opacity="0.45"><title>Basics → the Electrochemical Cells: 3</title></path>
+<path id="flow6" d="M195.43465 244.6406C281.15197 244.6406 281.15197 136.55004 366.8693 136.55004" fill="none" stroke-width="8.12772" stroke="#ff9da7" opacity="0.45"><title>Basics → Kinetics of the Electrode Reaction: 3</title></path>
+<path id="flow12" d="M195.43465 323.20854C281.15197 323.20854 281.15197 282.18915 366.8693 282.18915" fill="none" stroke-width="8.12772" stroke="#76b7b2" opacity="0.45"><title>Basics → The qualifying of reversible or irreversible system: 3</title></path>
+<path id="flow14" d="M195.43465 336.75473C281.15197 336.75473 281.15197 318.09241 366.8693 318.09241" fill="none" stroke-width="8.12772" stroke="#59a14f" opacity="0.45"><title>Basics → the cases of  electrolysis: 3</title></path>
+<path id="flow15" d="M195.43465 344.88245C281.15197 344.88245 281.15197 337.39865 366.8693 337.39865" fill="none" stroke-width="8.12772" stroke="#edc949" opacity="0.45"><title>Basics → foresee the conditions of one electrolysis: 3</title></path>
+<path id="flow21" d="M195.43465 543.62379C281.15197 543.62379 281.15197 502.00244 366.8693 502.00244" fill="none" stroke-width="8.12772" stroke="#bab0ab" opacity="0.45"><title>Analysis → Chronoamperometry: 3</title></path>
+<path id="flow23" d="M195.43465 570.71618C281.15197 570.71618 281.15197 551.45189 366.8693 551.45189" fill="none" stroke-width="8.12772" stroke="#f28e2c" opacity="0.45"><title>Analysis → Redissolution Stripping Analysis: 3</title></path>
+<path id="flow27" d="M195.43465 624.90096C281.15197 624.90096 281.15197 650.35079 366.8693 650.35079" fill="none" stroke-width="8.12772" stroke="#edc949" opacity="0.45"><title>Analysis → Potentiometry: 3</title></path>
+<path id="flow32" d="M195.43465 684.50422C281.15197 684.50422 281.15197 765.8467 366.8693 765.8467" fill="none" stroke-width="8.12772" stroke="#4e79a7" opacity="0.45"><title>Analysis → Electrogravimetry Separation: 3</title></path>
+<path id="flow13" d="M195.43465 329.98163C281.15197 329.98163 281.15197 300.14078 366.8693 300.14078" fill="none" stroke-width="5.41848" stroke="#59a14f" opacity="0.45"><title>Basics → Insert non-electroactive species into an electrochemical system: 2</title></path>
+<path id="flow17" d="M195.43465 367.91098C281.15197 367.91098 281.15197 382.78425 366.8693 382.78425" fill="none" stroke-width="5.41848" stroke="#59a14f" opacity="0.45"><title>Basics → the current-potential curves evolves with the changes in the concentrations of the electroactive: 2</title></path>
+<path id="flow24" d="M195.43465 577.48927C281.15197 577.48927 281.15197 569.40352 366.8693 569.40352" fill="none" stroke-width="5.41848" stroke="#e15759" opacity="0.45"><title>Analysis → Voltammetry at Ultramicroelectrodes: 2</title></path>
+<path id="flow29" d="M195.43465 647.92949C281.15197 647.92949 281.15197 695.73638 366.8693 695.73638" fill="none" stroke-width="5.41848" stroke="#ff9da7" opacity="0.45"><title>Analysis → Chemical Sensors Ion Selective Electrodes: 2</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="253.9248" height="498.5" width="12" fill="#4e79a7" fill-opacity="1"><title>Analytical-electrochemistry:
+184</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="183.43465" y="194.51968" height="205.90217" width="12" fill="#f28e2c" fill-opacity="1"><title>Basics:
+76</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="183.43465" y="501.63058" height="292.59783" width="12" fill="#e15759" fill-opacity="1"><title>Analysis:
+108</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="366.8693" y="41.715" height="16.25543" width="12" fill="#76b7b2" fill-opacity="1"><title>Thermodynamics and Equilibrium:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="366.8693" y="69.14896" height="8.12772" width="12" fill="#59a14f" fill-opacity="1"><title>the Electrochemical Cells:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="366.8693" y="88.45521" height="10.83696" width="12" fill="#edc949" fill-opacity="1"><title>curves current-potential:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="366.8693" y="110.4707" height="10.83696" width="12" fill="#af7aa1" fill-opacity="1"><title>potential of an electrode:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="366.8693" y="132.48618" height="8.12772" width="12" fill="#ff9da7" fill-opacity="1"><title>Kinetics of the Electrode Reaction:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="366.8693" y="151.79243" height="10.83696" width="12" fill="#9c755f" fill-opacity="1"><title>Qualitative Current-Potential Curves:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="366.8693" y="173.80792" height="10.83696" width="12" fill="#bab0ab" fill-opacity="1"><title>Nernst’s Equation:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="366.8693" y="195.8234" height="24.38315" width="12" fill="#4e79a7" fill-opacity="1"><title>Equation of Butler–Volmer:
+9</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="366.8693" y="231.38508" height="13.5462" width="12" fill="#f28e2c" fill-opacity="1"><title>Transport phenomena:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="366.8693" y="256.10981" height="10.83696" width="12" fill="#e15759" fill-opacity="1"><title>limiting-intensity of the real current-potential curves:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="366.8693" y="278.12529" height="8.12772" width="12" fill="#76b7b2" fill-opacity="1"><title>The qualifying of reversible or irreversible system:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="366.8693" y="297.43154" height="5.41848" width="12" fill="#59a14f" fill-opacity="1"><title>Insert non-electroactive species into an electrochemical system:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="366.8693" y="314.02855" height="8.12772" width="12" fill="#59a14f" fill-opacity="1"><title>the cases of  electrolysis:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="366.8693" y="333.3348" height="8.12772" width="12" fill="#edc949" fill-opacity="1"><title>foresee the conditions of one electrolysis:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="366.8693" y="352.64104" height="16.25543" width="12" fill="#59a14f" fill-opacity="1"><title>the process of activation on the working electrode:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="366.8693" y="380.07501" height="5.41848" width="12" fill="#59a14f" fill-opacity="1"><title>the current-potential curves evolves with the changes in the concentrations of the electroactive:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="366.8693" y="396.67201" height="29.80163" width="12" fill="#af7aa1" fill-opacity="1"><title>an electrochemical cell and an electrical circuit:
+11</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="366.8693" y="437.65217" height="24.38315" width="12" fill="#ff9da7" fill-opacity="1"><title>Voltammetric Techniques:
+9</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="366.8693" y="473.21386" height="13.5462" width="12" fill="#9c755f" fill-opacity="1"><title>Pulse Voltammetry:
+5</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="366.8693" y="497.93858" height="8.12772" width="12" fill="#bab0ab" fill-opacity="1"><title>Chronoamperometry:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="366.8693" y="517.24483" height="18.96467" width="12" fill="#4e79a7" fill-opacity="1"><title>Cyclic Voltammetry:
+7</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="366.8693" y="547.38803" height="8.12772" width="12" fill="#f28e2c" fill-opacity="1"><title>Redissolution Stripping Analysis:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="366.8693" y="566.69428" height="5.41848" width="12" fill="#e15759" fill-opacity="1"><title>Voltammetry at Ultramicroelectrodes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="366.8693" y="583.29129" height="18.96467" width="12" fill="#76b7b2" fill-opacity="1"><title>Amperometry:
+7</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="366.8693" y="613.43449" height="21.67391" width="12" fill="#59a14f" fill-opacity="1"><title>Conductometry:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="366.8693" y="646.28693" height="8.12772" width="12" fill="#edc949" fill-opacity="1"><title>Potentiometry:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="366.8693" y="665.59318" height="16.25543" width="12" fill="#af7aa1" fill-opacity="1"><title>PH Determination:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="366.8693" y="693.02714" height="5.41848" width="12" fill="#ff9da7" fill-opacity="1"><title>Chemical Sensors Ion Selective Electrodes:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="366.8693" y="709.62415" height="18.96467" width="12" fill="#9c755f" fill-opacity="1"><title>Potentiometric Titrations:
+7</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="366.8693" y="739.76735" height="10.83696" width="12" fill="#bab0ab" fill-opacity="1"><title>Chronopotentiometry:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="366.8693" y="761.78284" height="8.12772" width="12" fill="#4e79a7" fill-opacity="1"><title>Electrogravimetry Separation:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="366.8693" y="781.08909" height="29.80163" width="12" fill="#f28e2c" fill-opacity="1"><title>Coulometry:
+11</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="366.8693" y="822.06925" height="21.67391" width="12" fill="#ff9da7" fill-opacity="1"><title>Chemical Sensors:
+8</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="366.8693" y="854.92169" height="16.25543" width="12" fill="#e15759" fill-opacity="1"><title>Electrochemical Biosensors:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="366.8693" y="882.35565" height="37.92935" width="12" fill="#76b7b2" fill-opacity="1"><title>Liquid Chromatography:
+14</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-183.62786" y="491.81482" width="181.99516" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="503.1748" font-weight="400" font-size="14.4px" dy="4.64">Analytical-electrochemistry</text>
+<rect id="label1_bg" class="for_r1" x="163.55887" y="286.11078" width="52.15141" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="189.43465" y="297.47076" font-weight="400" font-size="14.4px" dy="4.64">Basics</text>
+<rect id="label2_bg" class="for_r2" x="156.9573" y="636.56952" width="64.35453" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="middle" x="189.43465" y="647.92949" font-weight="400" font-size="14.4px" dy="4.64">Analysis</text>
+<rect id="label3_bg" class="for_r3" x="380.502" y="38.48272" width="223.42085" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="385.16684" y="49.84272" font-weight="400" font-size="14.4px" dy="4.64">Thermodynamics and Equilibrium</text>
+<rect id="label4_bg" class="for_r4" x="379.502" y="61.85282" width="172.40144" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="385.16684" y="73.21282" font-weight="400" font-size="14.4px" dy="4.64">the Electrochemical Cells</text>
+<rect id="label5_bg" class="for_r5" x="380.502" y="82.51369" width="160.19831" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="385.16684" y="93.87369" font-weight="400" font-size="14.4px" dy="4.64">curves current-potential</text>
+<rect id="label6_bg" class="for_r6" x="380.502" y="104.52918" width="163.44831" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="385.16684" y="115.88918" font-weight="400" font-size="14.4px" dy="4.64">potential of an electrode</text>
+<rect id="label7_bg" class="for_r7" x="380.502" y="125.19003" width="225.85456" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="385.16684" y="136.55004" font-weight="400" font-size="14.4px" dy="4.64">Kinetics of the Electrode Reaction</text>
+<rect id="label8_bg" class="for_r8" x="380.502" y="145.85091" width="240.22956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="385.16684" y="157.21091" font-weight="400" font-size="14.4px" dy="4.64">Qualitative Current-Potential Curves</text>
+<rect id="label9_bg" class="for_r9" x="380.502" y="167.86639" width="123.13578" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="385.16684" y="179.22639" font-weight="400" font-size="14.4px" dy="4.64">Nernst’s Equation</text>
+<rect id="label10_bg" class="for_r10" x="380.502" y="196.65498" width="178.23567" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="385.16684" y="208.01498" font-weight="400" font-size="14.4px" dy="4.64">Equation of Butler–Volmer</text>
+<rect id="label11_bg" class="for_r11" x="380.502" y="226.79817" width="150.88581" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="385.16684" y="238.15818" font-weight="400" font-size="14.4px" dy="4.64">Transport phenomena</text>
+<rect id="label12_bg" class="for_r12" x="380.502" y="250.1683" width="334.68269" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="385.16684" y="261.52829" font-weight="400" font-size="14.4px" dy="4.64">limiting-intensity of the real current-potential curves</text>
+<rect id="label13_bg" class="for_r13" x="380.502" y="270.82916" width="322.65278" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="385.16684" y="282.18915" font-weight="400" font-size="14.4px" dy="4.64">The qualifying of reversible or irreversible system</text>
+<rect id="label14_bg" class="for_r14" x="380.502" y="288.78079" width="413.12019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="385.16684" y="300.14078" font-weight="400" font-size="14.4px" dy="4.64">Insert non-electroactive species into an electrochemical system</text>
+<rect id="label15_bg" class="for_r15" x="379.502" y="306.73242" width="163.60456" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="385.16684" y="318.09241" font-weight="400" font-size="14.4px" dy="4.64">the cases of  electrolysis</text>
+<rect id="label16_bg" class="for_r16" x="379.502" y="326.03867" width="270.88581" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="385.16684" y="337.39865" font-weight="400" font-size="14.4px" dy="4.64">foresee the conditions of one electrolysis</text>
+<rect id="label17_bg" class="for_r17" x="379.502" y="349.40878" width="326.91706" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="385.16684" y="360.76876" font-weight="400" font-size="14.4px" dy="4.64">the process of activation on the working electrode</text>
+<rect id="label18_bg" class="for_r18" x="379.502" y="371.42426" width="611.87016" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="start" x="385.16684" y="382.78425" font-weight="400" font-size="14.4px" dy="4.64">the current-potential curves evolves with the changes in the concentrations of the electroactive</text>
+<rect id="label19_bg" class="for_r19" x="380.502" y="400.21283" width="306.86372" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="385.16684" y="411.57283" font-weight="400" font-size="14.4px" dy="4.64">an electrochemical cell and an electrical circuit</text>
+<rect id="label20_bg" class="for_r20" x="379.502" y="438.48376" width="170.55769" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="385.16684" y="449.84375" font-weight="400" font-size="14.4px" dy="4.64">Voltammetric Techniques</text>
+<rect id="label21_bg" class="for_r21" x="380.502" y="468.62695" width="129.77641" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="385.16684" y="479.98695" font-weight="400" font-size="14.4px" dy="4.64">Pulse Voltammetry</text>
+<rect id="label22_bg" class="for_r22" x="380.502" y="490.64246" width="141.79206" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="385.16684" y="502.00244" font-weight="400" font-size="14.4px" dy="4.64">Chronoamperometry</text>
+<rect id="label23_bg" class="for_r23" x="380.502" y="515.36719" width="132.15141" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="385.16684" y="526.72716" font-weight="400" font-size="14.4px" dy="4.64">Cyclic Voltammetry</text>
+<rect id="label24_bg" class="for_r24" x="380.502" y="540.09192" width="213.85456" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="385.16684" y="551.45189" font-weight="400" font-size="14.4px" dy="4.64">Redissolution Stripping Analysis</text>
+<rect id="label25_bg" class="for_r25" x="379.502" y="558.04352" width="242.80769" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="385.16684" y="569.40352" font-weight="400" font-size="14.4px" dy="4.64">Voltammetry at Ultramicroelectrodes</text>
+<rect id="label26_bg" class="for_r26" x="379.502" y="581.41364" width="97.15141" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="385.16684" y="592.77362" font-weight="400" font-size="14.4px" dy="4.64">Amperometry</text>
+<rect id="label27_bg" class="for_r27" x="380.502" y="612.91144" width="107.38578" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="385.16684" y="624.27145" font-weight="400" font-size="14.4px" dy="4.64">Conductometry</text>
+<rect id="label28_bg" class="for_r28" x="380.502" y="638.99078" width="98.57328" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="385.16684" y="650.35079" font-weight="400" font-size="14.4px" dy="4.64">Potentiometry</text>
+<rect id="label29_bg" class="for_r29" x="380.502" y="662.3609" width="123.38578" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="385.16684" y="673.7209" font-weight="400" font-size="14.4px" dy="4.64">PH Determination</text>
+<rect id="label30_bg" class="for_r30" x="380.502" y="684.3764" width="285.07331" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="385.16684" y="695.73638" font-weight="400" font-size="14.4px" dy="4.64">Chemical Sensors Ion Selective Electrodes</text>
+<rect id="label31_bg" class="for_r31" x="380.502" y="707.74652" width="164.19831" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="385.16684" y="719.10649" font-weight="400" font-size="14.4px" dy="4.64">Potentiometric Titrations</text>
+<rect id="label32_bg" class="for_r32" x="380.502" y="733.82587" width="144.21394" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="385.16684" y="745.18583" font-weight="400" font-size="14.4px" dy="4.64">Chronopotentiometry</text>
+<rect id="label33_bg" class="for_r33" x="380.502" y="754.48669" width="195.41706" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="385.16684" y="765.8467" font-weight="400" font-size="14.4px" dy="4.64">Electrogravimetry Separation</text>
+<rect id="label34_bg" class="for_r34" x="380.502" y="784.62994" width="83.35453" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="385.16684" y="795.9899" font-weight="400" font-size="14.4px" dy="4.64">Coulometry</text>
+<rect id="label35_bg" class="for_r35" x="380.502" y="821.5462" width="126.58891" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="385.16684" y="832.9062" font-weight="400" font-size="14.4px" dy="4.64">Chemical Sensors</text>
+<rect id="label36_bg" class="for_r36" x="380.502" y="851.68945" width="186.60456" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="385.16684" y="863.04941" font-weight="400" font-size="14.4px" dy="4.64">Electrochemical Biosensors</text>
+<rect id="label37_bg" class="for_r37" x="380.502" y="889.96033" width="159.43269" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="385.16684" y="901.32033" font-weight="400" font-size="14.4px" dy="4.64">Liquid Chromatography</text>
+</g>
+</g></svg>
