@@ -1,0 +1,353 @@
+<svg height="900" width="1300" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 12/5/2024, 1:11:29 PM -->
+<g transform="translate(145.79973,18)">
+<g id="sankey_flows">
+<path id="flow0" d="M12 232.31089C115.79545 232.31089 115.79545 171.54329 219.5909 171.54329" fill="none" stroke-width="74.83333" stroke="#1f77b4" opacity="0.45"><title>Optical-Microscopy → Basics: 6</title></path>
+<path id="flow7" d="M12 294.672C115.79545 294.672 115.79545 256.0294 219.5909 256.0294" fill="none" stroke-width="49.88889" stroke="#e377c2" opacity="0.45"><title>Optical-Microscopy → Widefield: 4</title></path>
+<path id="flow12" d="M12 344.56089C115.79545 344.56089 115.79545 323.61829 219.5909 323.61829" fill="none" stroke-width="49.88889" stroke="#ff7f0e" opacity="0.45"><title>Optical-Microscopy → Confocal: 4</title></path>
+<path id="flow17" d="M12 394.44978C115.79545 394.44978 115.79545 388.6067 219.5909 388.6067" fill="none" stroke-width="49.88889" stroke="#9467bd" opacity="0.45"><title>Optical-Microscopy → Fluorescence: 4</title></path>
+<path id="flow25" d="M12 481.75533C115.79545 481.75533 115.79545 493.61226 219.5909 493.61226" fill="none" stroke-width="49.88889" stroke="#1f77b4" opacity="0.45"><title>Optical-Microscopy → Multiphoton: 4</title></path>
+<path id="flow21" d="M12 438.10256C115.79545 438.10256 115.79545 441.10948 219.5909 441.10948" fill="none" stroke-width="37.41667" stroke="#e377c2" opacity="0.45"><title>Optical-Microscopy → Light Sheet: 3</title></path>
+<path id="flow30" d="M12 525.40811C115.79545 525.40811 115.79545 546.11503 219.5909 546.11503" fill="none" stroke-width="37.41667" stroke="#2ca02c" opacity="0.45"><title>Optical-Microscopy → Harmonic: 3</title></path>
+<path id="flow33" d="M12 562.82478C115.79545 562.82478 115.79545 592.3817 219.5909 592.3817" fill="none" stroke-width="37.41667" stroke="#d62728" opacity="0.45"><title>Optical-Microscopy → Raman: 3</title></path>
+<path id="flow37" d="M12 612.71367C115.79545 612.71367 115.79545 659.97059 219.5909 659.97059" fill="none" stroke-width="37.41667" stroke="#e377c2" opacity="0.45"><title>Optical-Microscopy → Digital Holographic: 3</title></path>
+<path id="flow41" d="M12 643.89422C115.79545 643.89422 115.79545 700.00115 219.5909 700.00115" fill="none" stroke-width="24.94444" stroke="#bcbd22" opacity="0.45"><title>Optical-Microscopy → Super Resolution: 2</title></path>
+<path id="flow44" d="M12 668.83867C115.79545 668.83867 115.79545 733.79559 219.5909 733.79559" fill="none" stroke-width="24.94444" stroke="#17becf" opacity="0.45"><title>Optical-Microscopy → Obtain data: 2</title></path>
+<path id="flow1" d="M231.5909 140.36274C335.38635 140.36274 335.38635 57.86111 439.1818 57.86111" fill="none" stroke-width="12.47222" stroke="#ff7f0e" opacity="0.45"><title>Basics → physical principles: 1</title></path>
+<path id="flow2" d="M231.5909 152.83496C335.38635 152.83496 335.38635 79.18333 439.1818 79.18333" fill="none" stroke-width="12.47222" stroke="#2ca02c" opacity="0.45"><title>Basics → optical components manipulate light: 1</title></path>
+<path id="flow3" d="M231.5909 165.30718C335.38635 165.30718 335.38635 100.50556 439.1818 100.50556" fill="none" stroke-width="12.47222" stroke="#d62728" opacity="0.45"><title>Basics → A range of standard contrast mechanisms: 1</title></path>
+<path id="flow4" d="M231.5909 177.7794C335.38635 177.7794 335.38635 121.82778 439.1818 121.82778" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Basics → the light source and the detector: 1</title></path>
+<path id="flow5" d="M231.5909 190.25163C335.38635 190.25163 335.38635 143.15 439.1818 143.15" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Basics → the basic optics of a conventional widefield microscope: 1</title></path>
+<path id="flow6" d="M231.5909 202.72385C335.38635 202.72385 335.38635 164.47222 439.1818 164.47222" fill="none" stroke-width="12.47222" stroke="#8c564b" opacity="0.45"><title>Basics → how the various components work with each other: 1</title></path>
+<path id="flow8" d="M231.5909 237.32107C335.38635 237.32107 335.38635 185.79444 439.1818 185.79444" fill="none" stroke-width="12.47222" stroke="#7f7f7f" opacity="0.45"><title>Widefield → convert optical properties within the sample into contrast in an image: 1</title></path>
+<path id="flow9" d="M231.5909 249.79329C335.38635 249.79329 335.38635 207.11667 439.1818 207.11667" fill="none" stroke-width="12.47222" stroke="#bcbd22" opacity="0.45"><title>Widefield → produce widefield images: 1</title></path>
+<path id="flow10" d="M231.5909 262.26552C335.38635 262.26552 335.38635 228.43889 439.1818 228.43889" fill="none" stroke-width="12.47222" stroke="#17becf" opacity="0.45"><title>Widefield → high speed imaging: 1</title></path>
+<path id="flow11" d="M231.5909 274.73774C335.38635 274.73774 335.38635 249.76111 439.1818 249.76111" fill="none" stroke-width="12.47222" stroke="#1f77b4" opacity="0.45"><title>Widefield → Some of the methods require special objective lenses: 1</title></path>
+<path id="flow13" d="M231.5909 304.90996C335.38635 304.90996 335.38635 271.08333 439.1818 271.08333" fill="none" stroke-width="12.47222" stroke="#2ca02c" opacity="0.45"><title>Confocal → basic principles behind confocal microscopy: 1</title></path>
+<path id="flow14" d="M231.5909 317.38218C335.38635 317.38218 335.38635 292.40556 439.1818 292.40556" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Confocal → the optics of beam scanning microscopes: 1</title></path>
+<path id="flow15" d="M231.5909 329.8544C335.38635 329.8544 335.38635 313.72778 439.1818 313.72778" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Confocal → the selection of detectors for different wavelengths: 1</title></path>
+<path id="flow16" d="M231.5909 342.32663C335.38635 342.32663 335.38635 335.05 439.1818 335.05" fill="none" stroke-width="12.47222" stroke="#d62728" opacity="0.45"><title>Confocal → minimize the perturbation to the sample: 1</title></path>
+<path id="flow18" d="M231.5909 369.89837C335.38635 369.89837 335.38635 356.37222 439.1818 356.37222" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Fluorescence → the physical processes involved in the generation of fluorescence: 1</title></path>
+<path id="flow19" d="M231.5909 382.37059C335.38635 382.37059 335.38635 377.69444 439.1818 377.69444" fill="none" stroke-width="12.47222" stroke="#8c564b" opacity="0.45"><title>Fluorescence → how the lifetime is affected: 1</title></path>
+<path id="flow20" d="M231.5909 394.84281C335.38635 394.84281 335.38635 399.01667 439.1818 399.01667" fill="none" stroke-width="12.47222" stroke="#8c564b" opacity="0.45"><title>Fluorescence → using lifetime imaging: 1</title></path>
+<path id="flow22" d="M231.5909 428.63726C335.38635 428.63726 335.38635 420.33889 439.1818 420.33889" fill="none" stroke-width="12.47222" stroke="#7f7f7f" opacity="0.45"><title>Light Sheet → practical details on sample mounting: 1</title></path>
+<path id="flow23" d="M231.5909 434.87337v12.47222L439.1818 447.89722v-12.47222z" fill="#bcbd22" stroke-width="0.5" stroke="#bcbd22" opacity="0.45"><title>Light Sheet → consideration in light sheet microscopy: 1</title></path>
+<path id="flow24" d="M231.5909 453.5817C335.38635 453.5817 335.38635 462.98333 439.1818 462.98333" fill="none" stroke-width="12.47222" stroke="#17becf" opacity="0.45"><title>Light Sheet → some associated techniques for long period in vivo imaging: 1</title></path>
+<path id="flow26" d="M231.5909 474.90392C335.38635 474.90392 335.38635 484.30556 439.1818 484.30556" fill="none" stroke-width="12.47222" stroke="#ff7f0e" opacity="0.45"><title>Multiphoton → physical concepts: 1</title></path>
+<path id="flow27" d="M231.5909 487.37615C335.38635 487.37615 335.38635 505.62778 439.1818 505.62778" fill="none" stroke-width="12.47222" stroke="#ff7f0e" opacity="0.45"><title>Multiphoton → operating a multiphoton microscope: 1</title></path>
+<path id="flow28" d="M231.5909 499.84837C335.38635 499.84837 335.38635 526.95 439.1818 526.95" fill="none" stroke-width="12.47222" stroke="#8c564b" opacity="0.45"><title>Multiphoton → using a multiphoton system: 1</title></path>
+<path id="flow29" d="M231.5909 512.32059C335.38635 512.32059 335.38635 548.27222 439.1818 548.27222" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Multiphoton → the miniature endoscopes: 1</title></path>
+<path id="flow31" d="M231.5909 546.11503C335.38635 546.11503 335.38635 569.59444 439.1818 569.59444" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Harmonic → the physical basis for harmonic generation: 1</title></path>
+<path id="flow32" d="M231.5909 558.58726C335.38635 558.58726 335.38635 590.91667 439.1818 590.91667" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Harmonic → the signal being detected in a multiphoton microscope: 1</title></path>
+<path id="flow34" d="M231.5909 579.90948C335.38635 579.90948 335.38635 612.23889 439.1818 612.23889" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Raman → the physical basis behind the Raman effect: 1</title></path>
+<path id="flow35" d="M231.5909 592.3817C335.38635 592.3817 335.38635 633.56111 439.1818 633.56111" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Raman → employ Raman scattering as a molecularly specific contrast mechanism: 1</title></path>
+<path id="flow36" d="M231.5909 604.85392C335.38635 604.85392 335.38635 654.88333 439.1818 654.88333" fill="none" stroke-width="12.47222" stroke="#8c564b" opacity="0.45"><title>Raman → non-linear Raman-based methods: 1</title></path>
+<path id="flow38" d="M231.5909 647.49837C335.38635 647.49837 335.38635 676.20556 439.1818 676.20556" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Digital Holographic → the basic physical principles: 1</title></path>
+<path id="flow39" d="M231.5909 659.97059C335.38635 659.97059 335.38635 697.52778 439.1818 697.52778" fill="none" stroke-width="12.47222" stroke="#7f7f7f" opacity="0.45"><title>Digital Holographic → most recent practical implementations: 1</title></path>
+<path id="flow40" d="M231.5909 672.44281C335.38635 672.44281 335.38635 718.85 439.1818 718.85" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Digital Holographic → the optical and computational aspects of the holographic method: 1</title></path>
+<path id="flow42" d="M231.5909 693.76503C335.38635 693.76503 335.38635 740.17222 439.1818 740.17222" fill="none" stroke-width="12.47222" stroke="#9467bd" opacity="0.45"><title>Super Resolution → the limitations on optical microscopy: 1</title></path>
+<path id="flow43" d="M231.5909 706.23726C335.38635 706.23726 335.38635 761.49444 439.1818 761.49444" fill="none" stroke-width="12.47222" stroke="#7f7f7f" opacity="0.45"><title>Super Resolution → most commonly used methods for optical imaging: 1</title></path>
+<path id="flow45" d="M231.5909 727.55948C335.38635 727.55948 335.38635 782.81667 439.1818 782.81667" fill="none" stroke-width="12.47222" stroke="#1f77b4" opacity="0.45"><title>Obtain data → guidelines and thoughts in recording, storing and subsequently processing and displaying data and images: 1</title></path>
+<path id="flow46" d="M231.5909 740.0317C335.38635 740.0317 335.38635 804.13889 439.1818 804.13889" fill="none" stroke-width="12.47222" stroke="#ff7f0e" opacity="0.45"><title>Obtain data → commercial and shared, and also home-written software packages: 1</title></path>
+<path id="flow47" d="M12 587.76922C115.79545 587.76922 115.79545 626.17615 219.5909 626.17615" fill="none" stroke-width="12.47222" stroke="#2ca02c" opacity="0.45"><title>Optical-Microscopy → Selection Criteria: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="194.89422" height="486.41667" width="12" fill="#17becf" fill-opacity="1"><title>Optical-Microscopy:
+39</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="219.5909" y="134.12663" height="74.83333" width="12" fill="#1f77b4" fill-opacity="1"><title>Basics:
+6</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="439.1818" y="51.625" height="12.47222" width="12" fill="#ff7f0e" fill-opacity="1"><title>physical principles:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="439.1818" y="72.94722" height="12.47222" width="12" fill="#2ca02c" fill-opacity="1"><title>optical components manipulate light:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="439.1818" y="94.26944" height="12.47222" width="12" fill="#d62728" fill-opacity="1"><title>A range of standard contrast mechanisms:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="439.1818" y="115.59167" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the light source and the detector:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="439.1818" y="136.91389" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the basic optics of a conventional widefield microscope:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="439.1818" y="158.23611" height="12.47222" width="12" fill="#8c564b" fill-opacity="1"><title>how the various components work with each other:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="219.5909" y="231.08496" height="49.88889" width="12" fill="#e377c2" fill-opacity="1"><title>Widefield:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="439.1818" y="179.55833" height="12.47222" width="12" fill="#7f7f7f" fill-opacity="1"><title>convert optical properties within the sample into contrast in an image:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="439.1818" y="200.88056" height="12.47222" width="12" fill="#bcbd22" fill-opacity="1"><title>produce widefield images:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="439.1818" y="222.20278" height="12.47222" width="12" fill="#17becf" fill-opacity="1"><title>high speed imaging:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="439.1818" y="243.525" height="12.47222" width="12" fill="#1f77b4" fill-opacity="1"><title>Some of the methods require special objective lenses:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="219.5909" y="298.67385" height="49.88889" width="12" fill="#ff7f0e" fill-opacity="1"><title>Confocal:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="439.1818" y="264.84722" height="12.47222" width="12" fill="#2ca02c" fill-opacity="1"><title>basic principles behind confocal microscopy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="439.1818" y="286.16944" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the optics of beam scanning microscopes:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="439.1818" y="307.49167" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the selection of detectors for different wavelengths:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="439.1818" y="328.81389" height="12.47222" width="12" fill="#d62728" fill-opacity="1"><title>minimize the perturbation to the sample:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="219.5909" y="363.66226" height="49.88889" width="12" fill="#9467bd" fill-opacity="1"><title>Fluorescence:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="439.1818" y="350.13611" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the physical processes involved in the generation of fluorescence:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="439.1818" y="371.45833" height="12.47222" width="12" fill="#8c564b" fill-opacity="1"><title>how the lifetime is affected:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="439.1818" y="392.78056" height="12.47222" width="12" fill="#8c564b" fill-opacity="1"><title>using lifetime imaging:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="219.5909" y="422.40115" height="37.41667" width="12" fill="#e377c2" fill-opacity="1"><title>Light Sheet:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="439.1818" y="414.10278" height="12.47222" width="12" fill="#7f7f7f" fill-opacity="1"><title>practical details on sample mounting:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="439.1818" y="435.425" height="12.47222" width="12" fill="#bcbd22" fill-opacity="1"><title>consideration in light sheet microscopy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="439.1818" y="456.74722" height="12.47222" width="12" fill="#17becf" fill-opacity="1"><title>some associated techniques for long period in vivo imaging:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="219.5909" y="468.66781" height="49.88889" width="12" fill="#1f77b4" fill-opacity="1"><title>Multiphoton:
+4</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="439.1818" y="478.06944" height="12.47222" width="12" fill="#ff7f0e" fill-opacity="1"><title>physical concepts:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="439.1818" y="499.39167" height="12.47222" width="12" fill="#ff7f0e" fill-opacity="1"><title>operating a multiphoton microscope:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="439.1818" y="520.71389" height="12.47222" width="12" fill="#8c564b" fill-opacity="1"><title>using a multiphoton system:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="439.1818" y="542.03611" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the miniature endoscopes:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="219.5909" y="527.4067" height="37.41667" width="12" fill="#2ca02c" fill-opacity="1"><title>Harmonic:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="439.1818" y="563.35833" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the physical basis for harmonic generation:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="439.1818" y="584.68056" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the signal being detected in a multiphoton microscope:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="219.5909" y="573.67337" height="37.41667" width="12" fill="#d62728" fill-opacity="1"><title>Raman:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="439.1818" y="606.00278" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the physical basis behind the Raman effect:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="439.1818" y="627.325" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>employ Raman scattering as a molecularly specific contrast mechanism:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="439.1818" y="648.64722" height="12.47222" width="12" fill="#8c564b" fill-opacity="1"><title>non-linear Raman-based methods:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="219.5909" y="641.26226" height="37.41667" width="12" fill="#e377c2" fill-opacity="1"><title>Digital Holographic:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="439.1818" y="669.96944" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the basic physical principles:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="439.1818" y="691.29167" height="12.47222" width="12" fill="#7f7f7f" fill-opacity="1"><title>most recent practical implementations:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="439.1818" y="712.61389" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the optical and computational aspects of the holographic method:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="219.5909" y="687.52892" height="24.94444" width="12" fill="#bcbd22" fill-opacity="1"><title>Super Resolution:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="439.1818" y="733.93611" height="12.47222" width="12" fill="#9467bd" fill-opacity="1"><title>the limitations on optical microscopy:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="439.1818" y="755.25833" height="12.47222" width="12" fill="#7f7f7f" fill-opacity="1"><title>most commonly used methods for optical imaging:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="219.5909" y="721.32337" height="24.94444" width="12" fill="#17becf" fill-opacity="1"><title>Obtain data:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="439.1818" y="776.58056" height="12.47222" width="12" fill="#1f77b4" fill-opacity="1"><title>guidelines and thoughts in recording, storing and subsequently processing and displaying data and images:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="439.1818" y="797.90278" height="12.47222" width="12" fill="#ff7f0e" fill-opacity="1"><title>commercial and shared, and also home-written software packages:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="219.5909" y="619.94003" height="12.47222" width="12" fill="#2ca02c" fill-opacity="1"><title>Selection Criteria:
+1</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="-133.79973" y="426.74258" width="132.16703" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="438.10256" font-weight="400" font-size="14.4px" dy="4.64">Optical-Microscopy</text>
+<rect id="label1_bg" class="for_r1" x="199.71513" y="160.18329" width="52.15141" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="225.5909" y="171.54329" font-weight="400" font-size="14.4px" dy="4.64">Basics</text>
+<rect id="label2_bg" class="for_r2" x="452.8145" y="46.50111" width="126.58894" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="start" x="457.47934" y="57.86111" font-weight="400" font-size="14.4px" dy="4.64">physical principles</text>
+<rect id="label3_bg" class="for_r3" x="452.8145" y="67.82333" width="239.66615" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="457.47934" y="79.18333" font-weight="400" font-size="14.4px" dy="4.64">optical components manipulate light</text>
+<rect id="label4_bg" class="for_r4" x="451.8145" y="89.14556" width="276.47956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="457.47934" y="100.50556" font-weight="400" font-size="14.4px" dy="4.64">A range of standard contrast mechanisms</text>
+<rect id="label5_bg" class="for_r5" x="451.8145" y="110.46778" width="217.66853" height="21.99999" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="457.47934" y="121.82778" font-weight="400" font-size="14.4px" dy="4.64">the light source and the detector</text>
+<rect id="label6_bg" class="for_r6" x="451.8145" y="131.78999" width="360.52644" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="457.47934" y="143.15" font-weight="400" font-size="14.4px" dy="4.64">the basic optics of a conventional widefield microscope</text>
+<rect id="label7_bg" class="for_r7" x="452.8145" y="153.11221" width="330.30048" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="457.47934" y="164.47222" font-weight="400" font-size="14.4px" dy="4.64">how the various components work with each other</text>
+<rect id="label8_bg" class="for_r8" x="190.30888" y="244.6694" width="69.96391" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="middle" x="225.5909" y="256.0294" font-weight="400" font-size="14.4px" dy="4.64">Widefield</text>
+<rect id="label9_bg" class="for_r9" x="452.8145" y="174.43443" width="446.76081" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="457.47934" y="185.79444" font-weight="400" font-size="14.4px" dy="4.64">convert optical properties within the sample into contrast in an image</text>
+<rect id="label10_bg" class="for_r10" x="452.8145" y="195.75667" width="172.22956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="457.47934" y="207.11667" font-weight="400" font-size="14.4px" dy="4.64">produce widefield images</text>
+<rect id="label11_bg" class="for_r11" x="452.8145" y="217.07889" width="134.62019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="457.47934" y="228.43889" font-weight="400" font-size="14.4px" dy="4.64">high speed imaging</text>
+<rect id="label12_bg" class="for_r12" x="452.8145" y="238.40111" width="350.72956" height="22.00002" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="457.47934" y="249.76111" font-weight="400" font-size="14.4px" dy="4.64">Some of the methods require special objective lenses</text>
+<rect id="label13_bg" class="for_r13" x="192.50419" y="312.2583" width="66.57328" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="middle" x="225.5909" y="323.61829" font-weight="400" font-size="14.4px" dy="4.64">Confocal</text>
+<rect id="label14_bg" class="for_r14" x="452.8145" y="259.72336" width="289.87019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="457.47934" y="271.08333" font-weight="400" font-size="14.4px" dy="4.64">basic principles behind confocal microscopy</text>
+<rect id="label15_bg" class="for_r15" x="451.8145" y="281.04556" width="274.87019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="start" x="457.47934" y="292.40556" font-weight="400" font-size="14.4px" dy="4.64">the optics of beam scanning microscopes</text>
+<rect id="label16_bg" class="for_r16" x="451.8145" y="302.3678" width="331.46394" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="457.47934" y="313.72778" font-weight="400" font-size="14.4px" dy="4.64">the selection of detectors for different wavelengths</text>
+<rect id="label17_bg" class="for_r17" x="452.8145" y="323.69" width="261.87019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="457.47934" y="335.05" font-weight="400" font-size="14.4px" dy="4.64">minimize the perturbation to the sample</text>
+<rect id="label18_bg" class="for_r18" x="177.69951" y="377.2467" width="96.18266" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="middle" x="225.5909" y="388.6067" font-weight="400" font-size="14.4px" dy="4.64">Fluorescence</text>
+<rect id="label19_bg" class="for_r19" x="451.8145" y="345.01224" width="426.18269" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="457.47934" y="356.37222" font-weight="400" font-size="14.4px" dy="4.64">the physical processes involved in the generation of fluorescence</text>
+<rect id="label20_bg" class="for_r20" x="452.8145" y="366.33444" width="179.16706" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="457.47934" y="377.69444" font-weight="400" font-size="14.4px" dy="4.64">how the lifetime is affected</text>
+<rect id="label21_bg" class="for_r21" x="452.8145" y="387.65668" width="148.19831" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="start" x="457.47934" y="399.01667" font-weight="400" font-size="14.4px" dy="4.64">using lifetime imaging</text>
+<rect id="label22_bg" class="for_r22" x="184.49638" y="429.74948" width="83.58653" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="middle" x="225.5909" y="441.10948" font-weight="400" font-size="14.4px" dy="4.64">Light Sheet</text>
+<rect id="label23_bg" class="for_r23" x="452.8145" y="408.97891" width="242.66706" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="457.47934" y="420.33889" font-weight="400" font-size="14.4px" dy="4.64">practical details on sample mounting</text>
+<rect id="label24_bg" class="for_r24" x="452.8145" y="430.30112" width="257.05769" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="457.47934" y="441.66111" font-weight="400" font-size="14.4px" dy="4.64">consideration in light sheet microscopy</text>
+<rect id="label25_bg" class="for_r25" x="452.8145" y="451.62335" width="386.74519" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="457.47934" y="462.98333" font-weight="400" font-size="14.4px" dy="4.64">some associated techniques for long period in vivo imaging</text>
+<rect id="label26_bg" class="for_r26" x="183.69951" y="482.25229" width="84.18266" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="middle" x="225.5909" y="493.61226" font-weight="400" font-size="14.4px" dy="4.64">Multiphoton</text>
+<rect id="label27_bg" class="for_r27" x="452.8145" y="472.94559" width="123.40144" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="start" x="457.47934" y="484.30556" font-weight="400" font-size="14.4px" dy="4.64">physical concepts</text>
+<rect id="label28_bg" class="for_r28" x="452.8145" y="494.26779" width="237.87019" height="22.00003" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="457.47934" y="505.62778" font-weight="400" font-size="14.4px" dy="4.64">operating a multiphoton microscope</text>
+<rect id="label29_bg" class="for_r29" x="452.8145" y="515.59003" width="184.22956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="457.47934" y="526.95" font-weight="400" font-size="14.4px" dy="4.64">using a multiphoton system</text>
+<rect id="label30_bg" class="for_r30" x="451.8145" y="536.91223" width="175.63581" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="start" x="457.47934" y="548.27222" font-weight="400" font-size="14.4px" dy="4.64">the miniature endoscopes</text>
+<rect id="label31_bg" class="for_r31" x="190.11357" y="534.75507" width="72.14436" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="middle" x="225.5909" y="546.11503" font-weight="400" font-size="14.4px" dy="4.64">Harmonic</text>
+<rect id="label32_bg" class="for_r32" x="451.8145" y="558.23444" width="280.47956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="457.47934" y="569.59444" font-weight="400" font-size="14.4px" dy="4.64">the physical basis for harmonic generation</text>
+<rect id="label33_bg" class="for_r33" x="451.8145" y="579.5567" width="354.15144" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="457.47934" y="590.91667" font-weight="400" font-size="14.4px" dy="4.64">the signal being detected in a multiphoton microscope</text>
+<rect id="label34_bg" class="for_r34" x="197.71513" y="581.02173" width="56.15141" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="middle" x="225.5909" y="592.3817" font-weight="400" font-size="14.4px" dy="4.64">Raman</text>
+<rect id="label35_bg" class="for_r35" x="451.8145" y="600.87891" width="286.03175" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="457.47934" y="612.23889" font-weight="400" font-size="14.4px" dy="4.64">the physical basis behind the Raman effect</text>
+<rect id="label36_bg" class="for_r36" x="452.8145" y="622.20111" width="465.91706" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="457.47934" y="633.56111" font-weight="400" font-size="14.4px" dy="4.64">employ Raman scattering as a molecularly specific contrast mechanism</text>
+<rect id="label37_bg" class="for_r37" x="452.8145" y="643.52332" width="227.46394" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="457.47934" y="654.88333" font-weight="400" font-size="14.4px" dy="4.64">non-linear Raman-based methods</text>
+<rect id="label38_bg" class="for_r38" x="160.48857" y="648.6106" width="131.38966" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="middle" x="225.5909" y="659.97059" font-weight="400" font-size="14.4px" dy="4.64">Digital Holographic</text>
+<rect id="label39_bg" class="for_r39" x="451.8145" y="664.84558" width="189.22956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="457.47934" y="676.20556" font-weight="400" font-size="14.4px" dy="4.64">the basic physical principles</text>
+<rect id="label40_bg" class="for_r40" x="452.8145" y="686.16779" width="251.43269" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="457.47934" y="697.52778" font-weight="400" font-size="14.4px" dy="4.64">most recent practical implementations</text>
+<rect id="label41_bg" class="for_r41" x="451.8145" y="707.48999" width="422.19831" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="start" x="457.47934" y="718.85" font-weight="400" font-size="14.4px" dy="4.64">the optical and computational aspects of the holographic method</text>
+<rect id="label42_bg" class="for_r42" x="165.69169" y="688.64117" width="120.19828" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="middle" x="225.5909" y="700.00115" font-weight="400" font-size="14.4px" dy="4.64">Super Resolution</text>
+<rect id="label43_bg" class="for_r43" x="451.8145" y="728.81226" width="241.22956" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="start" x="457.47934" y="740.17222" font-weight="400" font-size="14.4px" dy="4.64">the limitations on optical microscopy</text>
+<rect id="label44_bg" class="for_r44" x="452.8145" y="750.13446" width="325.87019" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="start" x="457.47934" y="761.49444" font-weight="400" font-size="14.4px" dy="4.64">most commonly used methods for optical imaging</text>
+<rect id="label45_bg" class="for_r45" x="183.69169" y="722.43561" width="84.19828" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="middle" x="225.5909" y="733.79559" font-weight="400" font-size="14.4px" dy="4.64">Obtain data</text>
+<rect id="label46_bg" class="for_r46" x="452.8145" y="771.45667" width="689.38578" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="457.47934" y="782.81667" font-weight="400" font-size="14.4px" dy="4.64">guidelines and thoughts in recording, storing and subsequently processing and displaying data and images</text>
+<rect id="label47_bg" class="for_r47" x="452.8145" y="792.77893" width="433.15144" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="start" x="457.47934" y="804.13889" font-weight="400" font-size="14.4px" dy="4.64">commercial and shared, and also home-written software packages</text>
+<rect id="label48_bg" class="for_r48" x="233.2236" y="614.81616" width="119.38577" height="22" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="237.88844" y="626.17615" font-weight="400" font-size="14.4px" dy="4.64">Selection Criteria</text>
+</g>
+</g></svg>
